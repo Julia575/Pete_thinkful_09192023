@@ -108,6 +108,7 @@ font-family: 'Playfair Display',  serif ;
    border-color:black;
  }
 
+ 
  singleLine{
     white-space: pre-line !important;
     display: block;
