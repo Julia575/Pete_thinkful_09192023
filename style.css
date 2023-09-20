@@ -115,5 +115,10 @@ font-family: 'Playfair Display',  serif ;
 }
 
 
- 
- 
+footer p{
+  padding-top: 15px;
+  float: center;
+  text-align: center;
+  margin: 0 0 0 20px;
+  
+}
